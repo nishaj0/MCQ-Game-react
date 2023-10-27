@@ -10,4 +10,21 @@
 
    /* typography */
    --primary-font: "JetBrains Mono", monospace;
+
+   /* spacing */
+   --margin-x: 6rem;
+   --margin-y: 4rem;
+}
+
+@media screen and (max-width: 768px) {
+   :root {
+      --margin-x: 4rem;
+      --margin-y: 4rem;
+   }
+}
+@media screen and (max-width: 550px) {
+   :root {
+      --margin-x: 2rem;
+      --margin-y: 4rem;
+   }
 }
