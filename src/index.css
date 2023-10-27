@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200;300;400;500;600;700;800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200;300;400;500;600;700;800&display=swap");
 :root {
    /* colors */
    --white-color: #fefdfd;
@@ -9,5 +9,5 @@
    --red: #da5a45;
 
    /* typography */
-   --primary-font: 'JetBrains Mono', monospace;
+   --primary-font: "JetBrains Mono", monospace;
 }
